@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- Bug 
+1. Nếu quantity của bất kỳ sản phẩm nào > 1 thì nút xóa sẽ gặp lỗi
+2. Chưa fix được giảm quantity của sản phẩm
+-->

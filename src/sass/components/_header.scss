@@ -1,0 +1,15 @@
+.header {
+  .nav-menu {
+    width: 25%;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+  }
+  .nav-item a {
+    font-size: 1.25rem;
+    transition: 0.3s all;
+  }
+}
